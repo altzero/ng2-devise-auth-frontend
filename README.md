@@ -1,5 +1,15 @@
 # Ng2DeviseAuthFrontend
 
+## dependencies
+
+* nvm
+* rails-api / devise
+* ng-token-auth
+
+
+$ https://github.com/lynndylanhurley/ng-token-auth
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-beta.32.3.
 
 ## Development server
